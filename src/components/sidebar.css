@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    height: 100vh;
+}
+main {
+    width: 60vw;
+    height: 94vh;
+    padding: 40px;
+    background-color: rgb(23, 21, 26);
+}
+.sidebar {
+    background-color: rgb(33, 32, 33);
+    padding: 20px;
+    color: white;
+    height: 100vh;
+}
+.top-section{
+    margin-top: 35px;
+    margin-bottom: 35px; 
+}
+.fieldset {
+    padding: 15px;
+    border: none;
+    
+}
+.link {
+    display: flex;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    gap: 15px;
+    transition: all 0.5sec;
+}
+.link:hover {
+    border-top: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 3px;
+    border-style: solid;
+    border-color: blue;
+    color: blue;
+}
+.sidebar_2 {
+    padding: 10px;
+}

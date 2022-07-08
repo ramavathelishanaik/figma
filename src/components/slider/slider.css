@@ -1,0 +1,16 @@
+.slider-container {
+    padding: 40px;
+    height: 350px;
+    width: 700px;
+    margin: auto;
+}
+.slider {
+    width: 600px;
+    height: 350px;
+    margin: auto;
+}
+.crown{
+    height: 320px;
+    width: 580px;
+    border-radius: 15px;  
+}
